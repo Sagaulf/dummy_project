@@ -2,7 +2,7 @@ Notes for myself to get better at structuring my python projects.
 
 Project structure example (by kennethreitz): https://github.com/kennethreitz/samplemod
 
-´´´python
+```
 README.rst
 LICENSE
 setup.py
@@ -14,7 +14,7 @@ docs/conf.py
 docs/index.rst
 tests/test_basic.py
 tests/test_advanced.py
-´´´
+```
 
 Cheat sheet for markdown (make prettier readmes): https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 (Alternatively github documentation is here: https://help.github.com/articles/basic-writing-and-formatting-syntax/)
