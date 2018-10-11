@@ -2,7 +2,7 @@ Notes for myself to get better at structuring my python projects.
 
 Project structure example (by kennethreitz): https://github.com/kennethreitz/samplemod
 
-'''
+'''python
 README.rst
 LICENSE
 setup.py
